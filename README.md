@@ -26,6 +26,9 @@ start.bat
 # On Linux/macOS:
 chmod +x start.sh
 ./start.sh
+
+#Using Docker:
+# start.bat will eventually use docker, but to use it directly, please do to the docker folder and check out the READEME there.
 ```
 
 ### 2. Access the Dashboard
